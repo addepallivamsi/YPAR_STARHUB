@@ -13,3 +13,13 @@ RANGES: lr_matnr FOR vbap-matnr.
   lr_matnr-option = 'EQ'.
   lr_matnr-low    = 'A0000700146'.
   APPEND lr_matnr.
+
+lr_matnr-sign   = 'I'.
+  lr_matnr-option = 'EQ'.
+  lr_matnr-low    = 'A0000700268'.
+  APPEND lr_matnr.
+
+  lr_matnr-sign   = 'I'.
+  lr_matnr-option = 'EQ'.
+  lr_matnr-low    = 'A0000704653'.
+  APPEND lr_matnr.
